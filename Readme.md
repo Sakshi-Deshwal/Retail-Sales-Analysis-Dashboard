@@ -1,3 +1,4 @@
+⭐ If you found this project useful, please consider giving it a star!
 # Retail Sales Analysis Dashboard (Excel)
 
 ## 📊 Project Overview
@@ -16,6 +17,16 @@ The dashboard helps users quickly understand **sales distribution across regions
 * Pivot Charts
 * Data Visualization
 * Slicers (for interactive filtering)
+
+---
+
+## Project Workflow
+
+1. Data Cleaning in Excel
+2. Created Pivot Tables
+3. Built Pivot Charts
+4. Added Slicers for Interactivity
+5. Designed Final Dashboard Layout
 
 ---
 
@@ -58,6 +69,15 @@ From the analysis:
 
 ![Dashboard Overview](dashboard_overview.png)
 
+### Regional Analysis
+![Dashboard Region](dashboard_region.png)
+
+### Category Analysis
+![Dashboard Category](dashboard_category.png)
+
+### Monthly Trends
+![Dashboard Monthly Trends](dashboard monthly trends.png)
+
 ---
 
 ## 📁 Project Structure
@@ -65,7 +85,10 @@ From the analysis:
 Retail-Sales-Analysis-Dashboard
 │
 ├── Retail_Sales_Analysis_Dashboard.xlsx
-├── dashboard_overview.png
+├── dashboard overview.png
+├── dashboard region.png
+├── dashboard category.png
+├── dashboard monthly trends.png
 └── README.md
 
 ---
