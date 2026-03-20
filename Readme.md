@@ -1,4 +1,5 @@
 ⭐ If you found this project useful, please consider giving it a star!
+
 # Retail Sales Analysis Dashboard (Excel)
 
 ## 📊 Project Overview
@@ -76,7 +77,7 @@ From the analysis:
 ![Dashboard Category](dashboard_category.png)
 
 ### Monthly Trends
-![Dashboard monthly trends](dashboard monthly trends.png)
+![Dashboard monthly trends](dashboard monthly_trends.png)
 
 ---
 
