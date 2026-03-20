@@ -72,14 +72,14 @@ From the analysis:
 ### Overview
 ![Sales Overview](dashboard_overview.png)
 
-### Monthly Trends
-![Monthly Trends](dashboard_monthly_trends.png)
-
 ### Sales by Region
 ![Sales by Region](dashboard_region.png)
 
 ### Sales by Category
 ![Sales by Category](dashboard_category.png)
+
+### Monthly Trends
+![Monthly Trends](dashboard_monthly_trends.png)
 
 ---
 
