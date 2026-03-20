@@ -77,7 +77,7 @@ From the analysis:
 ![Dashboard Category](dashboard_category.png)
 
 ### Monthly Trends
-![Dashboard Monthly](dashboard_monthlytrends.png)
+![Dashboard Monthly](dashboard_monthly_trends.png)
 
 ---
 
