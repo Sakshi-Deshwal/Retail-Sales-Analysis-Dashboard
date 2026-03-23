@@ -5,8 +5,8 @@
 
 ## 📊 Project Overview
 
-This project presents an **interactive Retail Sales Analysis Dashboard** built using Microsoft Excel.
-The goal of this project is to analyze retail sales performance and visualize key business metrics such as revenue, customer contribution, product category performance, and monthly sales trends.
+This project analyzes retail sales data to identify revenue drivers, customer concentration, and regional performance patterns.
+The objective is to generate actionable business insights that can support decision-making in sales strategy, customer targeting, and inventory planning.
 
 The dashboard helps users quickly understand **sales distribution across regions, product categories, and customers** using clear visualizations and key performance indicators.
 
@@ -24,11 +24,13 @@ The dashboard helps users quickly understand **sales distribution across regions
 
 ## Project Workflow
 
-1. Data Cleaning in Excel
-2. Created Pivot Tables
-3. Built Pivot Charts
-4. Added Slicers for Interactivity
-5. Designed Final Dashboard Layout
+1. Data Understanding (columns, structure, business context)
+2. Data Cleaning (handling nulls, duplicates, formatting)
+3. Exploratory Data Analysis (EDA)
+4. KPI Definition (Sales, Orders, AOV)
+5. Data Aggregation using Pivot Tables
+6. Visualization & Dashboard Design
+7. Insight Generation
 
 ---
 
@@ -58,12 +60,20 @@ The dashboard includes the following analytical components:
 
 From the analysis:
 
-* The **Technology category** generates the highest revenue among product categories.
-* **West and East regions** contribute a significant share of total sales.
-* A small number of customers generate a large portion of revenue.
-* Sales show **variation across months**, indicating possible seasonal trends.
+* The Technology category dominates revenue, indicating strong demand but also potential over-dependence on a single category.
+* Revenue is heavily concentrated in the West and East regions, suggesting opportunities for expansion in underperforming regions.
+* The top 10 customers contribute a disproportionately high share of revenue, indicating a customer concentration risk.
+* Monthly trends indicate seasonal fluctuations, which can impact inventory and staffing decisions.
+* Certain categories show high sales but potentially lower contribution spread, suggesting the need for deeper profitability analysis.
 
 ---
+
+## 💡 Business Recommendations
+* Diversify revenue by promoting underperforming product categories
+* Expand operations or marketing in low-performing regions
+* Reduce dependency on top customers by improving customer acquisition strategies
+* Plan inventory and staffing based on seasonal sales trends
+* Introduce loyalty programs to retain high-value customers
 
 ## 🖼 Dashboard Preview
 
@@ -98,12 +108,12 @@ Retail-Sales-Analysis-Dashboard
 
 ## 🎯 Skills Demonstrated
 
-* Data Cleaning and Preparation
-* Pivot Table Analysis
-* Data Aggregation
-* Data Visualization
-* Dashboard Design
-* Business Insight Generation
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
+- KPI Development
+- Data Visualization & Dashboarding
+- Business Insight Generation
+- Analytical Thinking
 
 ---
 
