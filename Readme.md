@@ -19,6 +19,7 @@ The dashboard helps users quickly understand **sales distribution across regions
 * Pivot Charts
 * Data Visualization
 * Slicers (for interactive filtering)
+* Data Aggregation using Pivot-based modeling
 
 ---
 
@@ -40,7 +41,7 @@ The dashboard helps users quickly understand **sales distribution across regions
 * **Total Orders:** 9800
 * **Average Order Value:** $230.77
 
-These KPIs provide a quick overview of overall business performance.
+These KPIs were used to evaluate overall business performance and identify revenue efficiency and customer purchasing behavior.
 
 ---
 
@@ -65,8 +66,7 @@ From the analysis:
 * The top 10 customers contribute a disproportionately high share of revenue, indicating a customer concentration risk.
 * Monthly trends indicate seasonal fluctuations, which can impact inventory and staffing decisions.
 * Certain categories show high sales but potentially lower contribution spread, suggesting the need for deeper profitability analysis.
-
----
+* Revenue concentration suggests a potential Pareto distribution (80/20 rule), where a small portion of customers drives the majority of revenue.
 
 ## 💡 Business Recommendations
 * Diversify revenue by promoting underperforming product categories
@@ -76,8 +76,6 @@ From the analysis:
 * Introduce loyalty programs to retain high-value customers
 
 ## 🖼 Dashboard Preview
-
-## Dashboard Preview
 
 ### Overview
 ![Sales Overview](dashboard_overview.png)
@@ -98,10 +96,10 @@ From the analysis:
 Retail-Sales-Analysis-Dashboard
 │
 ├── Retail_Sales_Analysis_Dashboard.xlsx
-├── dashboard overview.png
-├── dashboard region.png
-├── dashboard category.png
-├── dashboard monthly trends.png
+├── dashboard_overview.png
+├── dashboard_region.png
+├── dashboard_category.png
+├── dashboard_monthly_trends.png
 └── README.md
 
 ---
@@ -114,12 +112,22 @@ Retail-Sales-Analysis-Dashboard
 - Data Visualization & Dashboarding
 - Business Insight Generation
 - Analytical Thinking
+- Data Storytelling
 
 ---
 
-## 🚀 Project Goal
+## 📂 Dataset Information
 
-This project demonstrates how **Excel can be used as a powerful data analysis and dashboarding tool** to transform raw data into meaningful insights for business decision-making.
+- The dataset contains retail transaction-level data with ~9800 records  
+- Key fields include: Order ID, Customer ID, Region, Category, Sales, Order Date  
+- Data represents multi-region retail operations, enabling analysis of customer behavior, regional trends, and product performance  
+- Data Type: Structured (tabular)
 
-This project demonstrates how **Excel can be used as a powerful data analysis and dashboarding tool** to transform raw data into meaningful insights for business decision-making.
+## 🚀 Project Impact
+
+This project showcases the ability to:
+
+* Transform raw retail data into structured insights
+* Identify key business drivers and risks
+* Support strategic decision-making using data
 
