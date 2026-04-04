@@ -18,6 +18,7 @@ The dashboard helps users quickly understand **sales distribution across regions
 * Pivot Tables
 * Pivot Charts
 * Data Visualization
+* SQL (Data Analysis & Querying)
 * Slicers (for interactive filtering)
 * Data Aggregation using Pivot-based modeling
 
@@ -68,6 +69,8 @@ From the analysis:
 * Certain categories show high sales but potentially lower contribution spread, suggesting the need for deeper profitability analysis.
 * Revenue concentration suggests a potential Pareto distribution (80/20 rule), where a small portion of customers drives the majority of revenue.
 
+---
+
 ## 💡 Business Recommendations
 * Diversify revenue by promoting underperforming product categories
 * Expand operations or marketing in low-performing regions
@@ -75,6 +78,16 @@ From the analysis:
 * Plan inventory and staffing based on seasonal sales trends
 * Introduce loyalty programs to retain high-value customers
 
+---
+
+## 🧠 SQL Analysis
+SQL was used to extract insights such as:
+- Total sales and profit
+- Regional performance
+- Top products and customers
+- Loss-making products
+
+---
 ## 🖼 Dashboard Preview
 
 ### Overview
@@ -100,6 +113,7 @@ Retail-Sales-Analysis-Dashboard
 ├── dashboard_region.png
 ├── dashboard_category.png
 ├── dashboard_monthly_trends.png
+├── retail_analysis.sql
 └── README.md
 
 ---
@@ -123,6 +137,7 @@ Retail-Sales-Analysis-Dashboard
 - Data represents multi-region retail operations, enabling analysis of customer behavior, regional trends, and product performance  
 - Data Type: Structured (tabular)
 
+---
 ## 🚀 Project Impact
 
 This project showcases the ability to:
@@ -131,3 +146,17 @@ This project showcases the ability to:
 * Identify key business drivers and risks
 * Support strategic decision-making using data
 
+---
+
+## 🚀 Future Improvements
+- Convert dashboard to Power BI
+- Build predictive sales model
+- Perform deeper customer segmentation
+
+---
+
+## 👤 Author
+**Sakshi Deshwal**  
+Aspiring Data Analyst  
+
+**Skills:** SQL | Excel | Data Analysis | Data Visualization
