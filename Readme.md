@@ -1,7 +1,7 @@
 ⭐ If you found this project useful, please consider giving it a star!
 
 
-# Retail Sales Analysis Dashboard (Excel)
+# Retail Sales Analysis Dashboard
 
 ## 📊 Project Overview
 
@@ -9,6 +9,8 @@ This project analyzes retail sales data to identify revenue drivers, customer co
 The objective is to generate actionable business insights that can support decision-making in sales strategy, customer targeting, and inventory planning.
 
 The dashboard helps users quickly understand **sales distribution across regions, product categories, and customers** using clear visualizations and key performance indicators.
+
+This project demonstrates the end-to-end data analysis workflow from raw data to actionable business insights.
 
 ---
 
@@ -33,6 +35,7 @@ The dashboard helps users quickly understand **sales distribution across regions
 5. Data Aggregation using Pivot Tables
 6. Visualization & Dashboard Design
 7. Insight Generation
+8. SQL-based analysis for validation and deeper insights
 
 ---
 
@@ -68,10 +71,12 @@ From the analysis:
 * Monthly trends indicate seasonal fluctuations, which can impact inventory and staffing decisions.
 * Certain categories show high sales but potentially lower contribution spread, suggesting the need for deeper profitability analysis.
 * Revenue concentration suggests a potential Pareto distribution (80/20 rule), where a small portion of customers drives the majority of revenue.
+* The business shows signs of a Pareto distribution, where a small percentage of customers contributes a majority of revenue, highlighting dependency risks.
 
 ---
 
 ## 💡 Business Recommendations
+
 * Diversify revenue by promoting underperforming product categories
 * Expand operations or marketing in low-performing regions
 * Reduce dependency on top customers by improving customer acquisition strategies
@@ -81,7 +86,8 @@ From the analysis:
 ---
 
 ## 🧠 SQL Analysis
-SQL was used to extract insights such as:
+
+SQL was used to perform data aggregation, filtering, and analysis to derive key business insights such as:
 - Total sales and profit
 - Regional performance
 - Top products and customers
